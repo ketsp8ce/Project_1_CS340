@@ -34,10 +34,10 @@ Create a user account with unique credentials, and with privileges to interact w
 
 
 Installation:
-MongoDB – databass system for storing animal shelter data
-Python – programming language for the module
+MongoDB 6.0 – databass system for storing animal shelter data
+Python 3.7+ – programming language for the module
 MongoPy – python driver for MongoDB. Install with pip.
-Jypiter Notebook – 
+Jypiter Notebook 
 Pandas – python library for data handling.Install with pip.
 
 Usage:
